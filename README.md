@@ -1,1 +1,1 @@
-Basic springboot application showcasing web with DB CRUD operations. 
+Basic springboot application show casing Web endpoints with DB CRUD operations. 
